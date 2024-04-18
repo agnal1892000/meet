@@ -1,0 +1,71 @@
+.audio-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+}
+
+.audio-details {
+    margin-bottom: 20px;
+    
+    
+}
+.upload-date {
+    margin-top: 20px; 
+}
+
+.audio-details label {
+    margin-right: 10px;
+}
+
+.audio-details input[type="text"] {
+    width: 100%;
+    padding: 5px;
+}
+
+.audio-controls button {
+    margin-right: 10px;
+    background-color: #415a74;
+    color: #fff;
+
+}
+
+.audio-data div {
+    margin-bottom: 10px;
+}
+.view-button {
+    margin-top: 20px;
+}
+
+.view-button button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.view-button button:hover {
+    background-color: #0056b3;
+}
+
+.save-button {
+    margin-right: 10px; 
+    background-color: #007bff; 
+    color: #fff;
+    border: none; 
+    border-radius: 5px; 
+    padding: 5px 10px; 
+    cursor: none; 
+    transition: background-color 0.3s; 
+    margin-top: 10px; 
+}
+
+.save-button:hover {
+    background-color: #0056b3; 
+}
